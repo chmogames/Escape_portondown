@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Escape",
+"dataUrl": "Builds.data.unityweb",
+"asmCodeUrl": "Builds.asm.code.unityweb",
+"asmMemoryUrl": "Builds.asm.memory.unityweb",
+"asmFrameworkUrl": "Builds.asm.framework.unityweb",
+"TOTAL_MEMORY": 578813952,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
